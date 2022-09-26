@@ -1,0 +1,120 @@
+body{
+    background-color: #1f3f5b;
+    background-size: 100%;
+    
+}
+.main {
+    
+    display: contents;
+    overflow-x: hidden;
+    
+}
+
+.icon{
+    margin: 55px;
+    display: flex;
+    word-spacing: 5px;
+    margin-bottom: 0%;
+    color: yellow;
+}
+.icon p {
+    margin: 5px;
+    word-spacing: 5px;
+}
+
+.img img {
+    
+    block-size: 25em;
+    margin: 0px;
+    padding: 0px;
+
+      
+}
+
+  .trns-text {
+    background-color: #fff;
+    background: url(https://www.yachtandboat.com/wp-content/uploads/2018/12/hero-image-2.jpg)  no-repeat;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    /* Below is not needed */
+    
+    font-size: 90px;
+    font-family: arial;
+    font-weight: bold;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    text-transform: uppercase;
+    text-overflow: clip;
+  }
+  .para {
+    
+    font-family: arial;
+    font-weight: bold;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    text-transform: uppercase;
+    text-overflow: clip;
+    color: white;
+
+  }
+  .call {
+    font-family: arial;
+    font-weight: bold;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    text-transform: uppercase;
+    text-overflow: clip;
+    color:white;
+
+  }
+  .Appoint {
+    font-family: arial;
+    font-weight: bold;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    text-transform: uppercase;
+    text-overflow: clip;
+    color:yellow;
+
+  }
+.para2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    text-transform: uppercase;
+    text-overflow: clip;
+    color:white;
+}
+.footer {
+    font-family: 'Times New Roman', Times, serif;
+    
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    text-transform: uppercase;
+    text-overflow: clip;
+    color:white;
+
+}
+.btn {
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-size: cover;
+    margin: 35px;
+    padding: 10px;
+    text-transform: uppercase;
+    text-overflow: clip;
+    color:blue;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: x-large;
+    
+
+    }
